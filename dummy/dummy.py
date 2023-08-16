@@ -1,4 +1,5 @@
 #pip install psycopg2-binary
+#PostgreSQL Dummy Data Input
 import psycopg2
 import random
 
